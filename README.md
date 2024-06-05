@@ -8,8 +8,10 @@ Prerequisites
 Before running the tests, ensure you have the following installed:
 
 Python 3.x
-Selenium library
+pip install pytest
+pip install selenium
 Chrome WebDriver
+
 Installation
 Clone the repository:
 git clone https://github.com/justindmorrow17/hometap-pytest.git
